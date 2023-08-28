@@ -1,0 +1,4 @@
+2023-07-16T19:14:48+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 163840 bytes) in /Applications/MAMP/htdocs/wordpress planty/wp-includes/plugin.php on line 125
+
+2023-07-16T19:15:06+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 12288 bytes) in /Applications/MAMP/htdocs/wordpress planty/wp-includes/class-wp-theme-json.php on line 742
+
